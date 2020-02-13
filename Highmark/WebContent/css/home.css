@@ -1,0 +1,23 @@
+body {
+  background-color: #990099;
+}
+
+h1 {
+  color: #ffff4d;
+}
+
+h2 {
+  color: #ffff4d;
+}
+
+p { color: #ffff4d;}
+
+a { color: #ffff4d;}
+
+a:visited {
+  color: #ffff4d;;
+}
+
+a:unvisited {
+  color: #ffff4d;;
+}
