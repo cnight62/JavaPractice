@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Highmark Home</title>
+<title>Home</title>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/home.css">
 </head>
 <body>
@@ -38,4 +38,5 @@
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
 
 </body>
+
 </html>
